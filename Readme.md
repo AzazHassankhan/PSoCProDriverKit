@@ -6,3 +6,6 @@ Welcome to the "Projects on PSoC Creator" repository, your gateway to a world of
 Ready to dive into the world of embedded systems with PSoC Creator? Explore our projects, share your knowledge, and ignite your passion for electronics and innovation.
 
 Contact: If you have any questions or need assistance, don't hesitate to reach out to us through the repository's discussions or by email at azazhassankhan2@gmail.com.
+
+# Board Used
+
