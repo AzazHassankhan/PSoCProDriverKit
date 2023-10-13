@@ -7,5 +7,4 @@ Ready to dive into the world of embedded systems with PSoC Creator? Explore our 
 
 Contact: If you have any questions or need assistance, don't hesitate to reach out to us through the repository's discussions or by email at azazhassankhan2@gmail.com.
 
-# Board Used
 
