@@ -1,4 +1,6 @@
-###Let's break down the code step by step:
+# Pressing of Push Button
+
+Let's break down the code step by step:
 
 ### Leds_and_Button_Func()
 This function is named Leds_and_Button_Func and does not take any arguments. It's a void function, indicating that it doesn't return any values.
