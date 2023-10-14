@@ -2,6 +2,8 @@
 
 Welcome to the "Simple UART Communication" repository! This code showcases basic UART (Universal Asynchronous Receiver-Transmitter) communication using an embedded system, and it's as simple as sending and receiving messages. Let's dive into the code step by step: ⚙️
 
+### 📜 Code Overview:
+
 💌 **Uart_String_Func():** This function is responsible for transmitting a simple message. It sends "Starting" followed by a carriage return ("\r") through the UART. This is your project's kick-off message! 🚀
 
 🔢 **Uart_Int_Func():** In this function, we're converting an integer (in this case, 1) to a string using the sprintf function. The resulting string is then sent via UART. Imagine sending numeric data from your device! 📊
