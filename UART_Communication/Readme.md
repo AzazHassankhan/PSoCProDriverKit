@@ -10,6 +10,8 @@ Welcome to the "Simple UART Communication" repository! This code showcases basic
 
 🚀 **Why UART?:** UART is widely used in the world of embedded systems for its simplicity and versatility. It's perfect for transmitting data, debugging, and more.
 
+🔌 **hterm:** "hterm" is a vital component of this code, enhancing the user experience by facilitating communication over UART. It acts as the bridge connecting your device to a terminal or host system, allowing for seamless data exchange. 🌟
+
 📚 **Resources:** Dive into the codebase and documentation to explore how UART communication works and how to integrate it into your projects. 🛠️
 
 Let's embark on this journey to understand UART and explore its endless applications in the world of embedded systems. 🌟🤖
