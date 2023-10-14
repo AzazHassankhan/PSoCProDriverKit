@@ -16,4 +16,4 @@ Welcome to the "Simple UART Communication" repository! This code showcases basic
 
 📚 **Resources:** Dive into the codebase and documentation to explore how UART communication works and how to integrate it into your projects. 🛠️
 
-Let's embark on this journey to understand UART and explore its endless applications in the world of embedded systems. 🌟🤖
+Let's embark on this journey to understand UART and explore its endless applications in the world of embedded systems. 🌟
