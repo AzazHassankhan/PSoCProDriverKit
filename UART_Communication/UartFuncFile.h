@@ -1,4 +1,4 @@
-/* ========================================
+/*========================================
  *
  *Copyright YOUR COMPANY, THE YEAR
  *All Rights Reserved
@@ -10,18 +10,24 @@
  * ========================================
  */
 
-/* ========================================
+/*========================================
  *This Function is used to send string to
    Pc through Uart.
  *========================================
 */
 void Uart_String_Func();
 
-/* ========================================
+/*========================================
  *This Function is used to send integer values
    in the form of string to Pc through Uart.
  *========================================
 */
 void Uart_Int_Func();
 
+/*========================================
+ *This Function is used to recieve data from
+  pc and show it through Led.
+ *========================================
+*/
+void Uart_get_Func();
 /*[] END OF FILE */
