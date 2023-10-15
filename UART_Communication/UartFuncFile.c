@@ -26,4 +26,18 @@ void Uart_Int_Func()
 	UART_1_PutString(str);
 }
 
+void Uart_get_Func()
+{
+	uint8 receive;
+	receive = UART_1_GetChar();
+	if (receive == '1')
+	{
+		Red_Led_Write(1);
+	}
+	else if (receive == '2')
+	{
+		Red_Led_Write(0);
+	}
+}
+
 /*[] END OF FILE */
